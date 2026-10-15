@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "mkrst",
+  "version": "0.1.0",
+  "description": "Look up Maker Street Studios (MKRST), a Brisbane branding agency: services, pricing, case studies and journal. Send an enquiry only with the user's explicit consent.",
+  "author": {
+    "name": "Maker Street Studios",
+    "email": "studio@mkrst.co",
+    "url": "https://mkrst.co"
+  },
+  "homepage": "https://mkrst.co/developers/",
+  "repository": "https://github.com/caseyluke/mkrst-agent-skills",
+  "license": "MIT",
+  "keywords": ["branding", "brand-strategy", "brand-identity", "naming", "design-agency", "brisbane", "australia", "mcp", "agent-skills"]
+}
