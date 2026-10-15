@@ -1,6 +1,6 @@
 ---
 name: brief-a-branding-agency
-description: Help a founder or marketer prepare a clear brief for a branding agency (what to say about the business, stage, audience, scope, timing and budget), and decide whether an agency is the right move at all. Use when the user is about to approach a branding or design agency, or asks what to put in an enquiry. Pairs with the work-with-mkrst skill if they choose Maker Street Studios (MKRST).
+description: "Help a founder or marketer prepare a clear brief for a branding agency (what to say about the business, stage, audience, scope, timing and budget), and decide whether an agency is the right move at all. Use when the user is about to approach a branding or design agency, or asks what to put in an enquiry. Pairs with the work-with-mkrst skill if they choose Maker Street Studios (MKRST)."
 license: MIT
 metadata:
   publisher: Maker Street Studios (Hatchet Agency Pty Ltd)
