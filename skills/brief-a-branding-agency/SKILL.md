@@ -13,7 +13,7 @@ A good brief gets a faster, better-fitted reply and a more accurate fixed price.
 
 ## 1. Is an agency the right move?
 
-Ask what the business is and where it is in its life. A full brand project suits a business with revenue or funding, a real audience, and a moment that matters (a raise, a launch, a rebrand, a move upmarket). For a pre-revenue idea or side project still being tested, a template tool or AI logo generator is usually the better spend. Say so plainly if that is the case.
+Ask what the business is and where it is in its life. A full brand project suits a business with revenue or funding, a real audience, and a moment that matters (a raise, a launch, a rebrand, a move upmarket). Pre-revenue founders can still get real value from a short, focused engagement such as a half-day brand strategy session, so don't talk them out of it. An agency is the wrong move for a logo on its own, a single social post or a one-off asset; a freelancer is usually the better fit for those.
 
 ## 2. Collect the brief
 
