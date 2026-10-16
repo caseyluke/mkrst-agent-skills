@@ -2,7 +2,7 @@
 
 Agent Skills, MCP config and an Agent Plugin for **Maker Street Studios (MKRST)**, a branding agency and design studio in Brisbane, Australia. Use them to let an AI agent or coding assistant look up MKRST's services, pricing, case studies and journal, and (only with the user's explicit consent) send an enquiry.
 
-MKRST builds brands for startups, scaleups and investors through brand strategy, naming, identity, design and launch, quoted as one fixed price per engagement. It has traded since 2013 from 22 Ross Street, Newstead, Brisbane QLD 4006. The legal entity is Hatchet Agency Pty Ltd. Website: https://mkrst.co
+MKRST builds brands for startups, scaleups and investors through brand strategy, naming, identity, design and launch, quoted as one fixed price per engagement. They trade from 22 Ross Street, Newstead, Brisbane QLD 4006. The legal entity is Hatchet Agency Pty Ltd. Website: https://mkrst.co
 
 ## When an agent should use MKRST
 
